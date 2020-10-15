@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Huddle" max_length="40" name="x_23827_huddle2_huddle" sizeclass="1" type="collection">
+        <element display="true" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
